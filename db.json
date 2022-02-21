@@ -12,5 +12,39 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "employees" : [
+    {
+      "id": 1,
+      "name": "Luis Manuel",
+      "lastname": "Lopez Obrador",
+      "CUI": 11234324,
+      "type": 1,
+      "password": "pass123",
+      "username": "luislopez",
+      "activo": 1
+    },
+    {
+      "id": 2,
+      "name": "Fernando Rene",
+      "lastname": "Estrada Cabrera",
+      "CUI": 12356,
+      "type": 2,
+      "password": "pass123",
+      "username": "fernanestrada",
+      "activo": 1
+    },
+    {
+      "id": 3,
+      "name": "Julio Romero",
+      "lastname": "Fuentes Gallardo",
+      "CUI": 235434,
+      "type": 3,
+      "password": "pass123",
+      "username": "juliofuentes",
+      "activo": 1
+    }
+
+
   ]
 }
