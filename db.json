@@ -46,5 +46,12 @@
     }
 
 
+  ],
+  "rates" : [
+    {
+      "id": 1,
+      "rate": 12.50,
+      "ratename": "Operacion Global"
+    }
   ]
 }
