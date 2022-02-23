@@ -56,5 +56,41 @@
       "rate": 12.50,
       "ratename": "Operacion Global"
     }
+  ],
+  "destination" : [
+    {
+      "id" : 1,
+      "name" : "Guatemala",
+      "description" : "Destino Guatemala a Quetzaltenango"
+    }
+  ],
+  "checkpoints" : [
+    {
+      "id" : 1,
+      "description" : "Descripcion 1",
+      "queuecapacity" : 8,
+      "operationfee" : 12.5,
+      "packageOnQueue" : 12,
+      "assignedoperator" : 1,
+      "route" : 1
+    },
+    {
+      "id" : 2,
+      "description" : "Descripcion 2",
+      "queuecapacity" : 8,
+      "operationfee" : 12.5,
+      "packageOnQueue" : 12,
+      "assignedoperator" : 1,
+      "route" : 1
+    },
+    {
+      "id" : 3,
+      "description" : "Descripcion 3",
+      "queuecapacity" : 8,
+      "operationfee" : 12.5,
+      "packageOnQueue" : 12,
+      "assignedoperator" : 1,
+      "route" : 1
+    }
   ]
 }
