@@ -52,9 +52,19 @@
   ],
   "rates" : [
     {
-      "id": 1,
-      "rate": 12.50,
-      "ratename": "Operacion Global"
+      "ratename": "Tarifa por operación",
+      "rate": 15.5,
+      "id": 1
+    },
+    {
+      "ratename": "Tarifa por priorización",
+      "rate": 12,
+      "id": 2
+    },
+    {
+      "ratename": "Tarifa por libra",
+      "rate": 12.55,
+      "id": 3
     }
   ],
   "destination" : [
