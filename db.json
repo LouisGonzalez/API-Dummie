@@ -105,5 +105,40 @@
       "route" : 1,
       "active" : 1
     }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Mario Jose",
+      "lastname": "Perez Gonzalez",
+      "age": 21,
+      "CUI": 2345234,
+      "NIT": 123
+    },
+    {
+      "id": 2,
+      "name": "Manuel Andres",
+      "lastname": "Garcia Agapito",
+      "age": 21,
+      "CUI": 2345234,
+      "NIT": 124
+    },
+    {
+      "id": 3,
+      "name": "Jose David",
+      "lastname": "Castellanos Gonzalez",
+      "age": 21,
+      "CUI": 2345234,
+      "NIT": 125
+    },
+    {
+      "id": 4,
+      "name": "Alejandra Maria",
+      "lastname": "Muniz Juarez",
+      "age": 21,
+      "CUI": 2345234,
+      "NIT": 126
+    }
+
   ]
 }
