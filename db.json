@@ -140,5 +140,37 @@
       "NIT": 126
     }
 
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "idClient": 1,
+      "route": 1,
+      "onWay": true,
+      "atDestination": false,
+      "retired": false,
+      "weight": 10,
+      "noInvoice": 1,
+      "unitTotal": 100
+
+    }  
+  ],
+  "invoice": [
+    {
+      "id": 1,
+      "nitClient": 123,
+      "subtotal": 100,
+      "total": 100,
+      "dateEmit": "04-05-2022"
+    }
+  ],
+  "package-checkpoint": [
+    {
+      "id": 1,
+      "package": 1,
+      "checkpoint": 1,
+      "entryDate": "04-05-2022",
+      "departureDate": null
+    }
   ]
 }
