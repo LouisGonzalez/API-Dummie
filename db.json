@@ -78,30 +78,30 @@
     {
       "id" : 1,
       "description" : "Descripcion 1",
-      "queuecapacity" : 8,
-      "operationfee" : 12.5,
+      "queueCapacity" : 8,
+      "operationFee" : 12.5,
       "packageOnQueue" : 12,
-      "assignedoperator" : 1,
+      "assignedOperator" : 1,
       "route" : 1,
       "activate" : 1
     },
     {
       "id" : 2,
       "description" : "Descripcion 2",
-      "queuecapacity" : 8,
-      "operationfee" : 12.5,
+      "queueCapacity" : 8,
+      "operationFee" : 12.5,
       "packageOnQueue" : 12,
-      "assignedoperator" : 1,
+      "assignedOperator" : 1,
       "route" : 1,
       "activate" : 1
     },
     {
       "id" : 3,
       "description" : "Descripcion 3",
-      "queuecapacity" : 8,
-      "operationfee" : 12.5,
+      "queueCapacity" : 8,
+      "operationFee" : 12.5,
       "packageOnQueue" : 12,
-      "assignedoperator" : 1,
+      "assignedOperator" : 1,
       "route" : 1,
       "activate" : 1
     }
