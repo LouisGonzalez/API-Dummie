@@ -71,7 +71,8 @@
     {
       "id" : 1,
       "name" : "Guatemala",
-      "description" : "Destino Guatemala a Quetzaltenango"
+      "description" : "Destino Guatemala a Quetzaltenango",
+      "fee": 100
     }
   ],
   "checkpoints" : [
