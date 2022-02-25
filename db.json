@@ -172,5 +172,15 @@
       "entryDate": "04-05-2022",
       "departureDate": null
     }
+  ].
+  "route": [
+    {
+      "id": 1,
+      "name": "Ruta 1",
+      "destinationId": 1,
+      "active": "false",
+      "packagesOnRoute": 0,
+      "totalPackages": 0
+    }
   ]
 }
