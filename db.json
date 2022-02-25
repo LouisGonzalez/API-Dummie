@@ -190,5 +190,12 @@
       "packagesOnRoute": 0,
       "totalPackages": 0
     }
+  ],
+  "initial-queue": [
+    {
+      "id": 1,
+      "idPackage": 1,
+      "position": 1
+    }
   ]
 }
