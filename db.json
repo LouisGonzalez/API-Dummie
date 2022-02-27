@@ -152,7 +152,8 @@
       "retired": false,
       "weight": 10,
       "noInvoice": 1,
-      "unitTotal": 100
+      "unitTotal": 100,
+      "description": "paquete con audifonos"
 
     }  
   ],
