@@ -155,7 +155,49 @@
       "unitTotal": 100,
       "description": "paquete con audifonos"
 
+    },
+    {
+      "id": 2,
+      "idClient": 1,
+      "route": 1,
+      "onWay": false,
+      "atDestination": false,
+      "retired": false,
+      "weight": 10,
+      "noInvoice": 1,
+      "unitTotal": 100,
+      "description": "paquete con audifonos 2"
+
+    },
+    {
+      "id": 3,
+      "idClient": 1,
+      "route": 1,
+      "onWay": true,
+      "atDestination": true,
+      "retired": false,
+      "weight": 10,
+      "noInvoice": 1,
+      "unitTotal": 100,
+      "description": "paquete con audifonos 3"
+
+    },
+    {
+      "id": 4,
+      "idClient": 1,
+      "route": 1,
+      "onWay": false,
+      "atDestination": true,
+      "retired": false,
+      "weight": 10,
+      "noInvoice": 1,
+      "unitTotal": 100,
+      "description": "paquete con audifonos 4"
+
     }  
+  
+  
+  
   ],
   "invoice": [
     {
