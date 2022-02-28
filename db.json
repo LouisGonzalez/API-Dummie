@@ -20,7 +20,7 @@
       "lastname": "Lopez Obrador",
       "CUI": 11234324,
       "type": 1,
-      "password": "pass123",
+      "password": "12345678",
       "username": "luislopez",
       "email": "luismanuel@gmail.com",
       "activo": 1
@@ -31,7 +31,7 @@
       "lastname": "Estrada Cabrera",
       "CUI": 12356,
       "type": 2,
-      "password": "pass123",
+      "password": "12345678",
       "username": "fernanestrada",
       "email": "fernanrene@gmail.com",
       "activo": 1
@@ -42,7 +42,7 @@
       "lastname": "Fuentes Gallardo",
       "CUI": 235434,
       "type": 3,
-      "password": "pass123",
+      "password": "12345678",
       "username": "juliofuentes",
       "email": "julioromero@gmail.com",
       "activo": 1
