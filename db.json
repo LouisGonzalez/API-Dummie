@@ -46,9 +46,73 @@
       "username": "juliofuentes",
       "email": "julioromero@gmail.com",
       "activo": 1
+    },
+    {
+      "id": 4,
+      "name": "Juan Fernando",
+      "lastname": "Gonzales Gonzales",
+      "CUI": 12356112,
+      "type": 2,
+      "password": "12345678",
+      "username": "juangonza",
+      "email": "juangonza@gmail.com",
+      "activo": 0
+    },
+    {
+      "id": 5,
+      "name": "Juana Elizabeth",
+      "lastname": "Cifuentes Estrada",
+      "CUI": 235434334,
+      "type": 3,
+      "password": "12345678",
+      "username": "juaneliza",
+      "email": "juaneliza@gmail.com",
+      "activo": 0
+    },
+    {
+      "id": 6,
+      "name": "Bruno Gabriel",
+      "lastname": "Rojas Pelico",
+      "CUI": 12112356,
+      "type": 2,
+      "password": "12345678",
+      "username": "brunigro",
+      "email": "brunigro@gmail.com",
+      "activo": 1
+    },
+    {
+      "id": 7,
+      "name": "Amarilis Alejandra",
+      "lastname": "Hernandez Gonzales",
+      "CUI": 235434776,
+      "type": 3,
+      "password": "12345678",
+      "username": "juliofuentes",
+      "email": "julioromero@gmail.com",
+      "activo": 1
+    },
+    {
+      "id": 8,
+      "name": "Mario Mateo",
+      "lastname": "Garcia Garcia",
+      "CUI": 122323356,
+      "type": 2,
+      "password": "12345678",
+      "username": "mariomat",
+      "email": "mariomat@gmail.com",
+      "activo": 1
+    },
+    {
+      "id": 9,
+      "name": "Estefany Maria",
+      "lastname": "Pelico Gonzales",
+      "CUI": 453543326,
+      "type": 2,
+      "password": "12345678",
+      "username": "estefmar",
+      "email": "estefmar@gmail.com",
+      "activo": 1
     }
-
-
   ],
   "rates" : [
     {
@@ -73,37 +137,121 @@
       "name" : "Guatemala",
       "description" : "Destino Guatemala a Quetzaltenango",
       "fee": 100
+    },
+    {
+      "id" : 2,
+      "name" : "San Marcos",
+      "description" : "Destino San Marcos a Quetzaltenango",
+      "fee": 75
+    },
+    {
+      "id" : 3,
+      "name" : "Petén",
+      "description" : "Destino Guatemala a Péten",
+      "fee": 150
+    },
+    {
+      "id" : 4,
+      "name" : "Izabal",
+      "description" : "Destino Guatemala a Izabal",
+      "fee": 125
+    },
+    {
+      "id" : 5,
+      "name" : "Escuintla",
+      "description" : "Destino Guatemala a Escuintla",
+      "fee": 100
+    },
+    {
+      "id" : 6,
+      "name" : "Quiche",
+      "description" : "Destino Quiche a Quetzaltenango",
+      "fee": 100
+    },
+    {
+      "id" : 7,
+      "name" : "Huehuetenango",
+      "description" : "Destino Huehuetentango a Quetzaltenango",
+      "fee": 120
+    },
+    {
+      "id" : 8,
+      "name" : "La Mesilla",
+      "description" : "Destino frontera La Mesila a Quetzaltenango",
+      "fee": 150
+    },
+    {
+      "id" : 9,
+      "name" : "Tecúm Uman",
+      "description" : "Destino fronterta Tecúm Uman a Guatemala",
+      "fee": 175
+    },
+    {
+      "id" : 10,
+      "name" : "Malacatancito",
+      "description" : "Destino Malacatancito a Quetzaltenango",
+      "fee": 100
     }
   ],
   "checkpoints" : [
     {
       "id" : 1,
       "description" : "Descripcion 1",
-      "queueCapacity" : 8,
+      "queueCapacity" : 35,
       "operationFee" : 12.5,
       "packageOnQueue" : 12,
-      "assignedOperator" : 1,
+      "assignedOperator" : 2,
       "route" : 1,
       "active" : 1
     },
     {
       "id" : 2,
       "description" : "Descripcion 2",
-      "queueCapacity" : 8,
+      "queueCapacity" : 55,
       "operationFee" : 12.5,
-      "packageOnQueue" : 12,
-      "assignedOperator" : 1,
+      "packageOnQueue" : 22,
+      "assignedOperator" : 2,
       "route" : 1,
       "active" : 1
     },
     {
       "id" : 3,
       "description" : "Descripcion 3",
-      "queueCapacity" : 8,
+      "queueCapacity" : 18,
       "operationFee" : 12.5,
       "packageOnQueue" : 12,
-      "assignedOperator" : 1,
+      "assignedOperator" : 6,
       "route" : 1,
+      "active" : 1
+    },
+    {
+      "id" : 4,
+      "description" : "Descripcion 4",
+      "queueCapacity" : 35,
+      "operationFee" : 12.5,
+      "packageOnQueue" : 12,
+      "assignedOperator" : 6,
+      "route" : 2,
+      "active" : 1
+    },
+    {
+      "id" : 5,
+      "description" : "Descripcion 5",
+      "queueCapacity" : 55,
+      "operationFee" : 12.5,
+      "packageOnQueue" : 0,
+      "assignedOperator" : 8,
+      "route" : 2,
+      "active" : 1
+    },
+    {
+      "id" : 6,
+      "description" : "Descripcion 6",
+      "queueCapacity" : 18,
+      "operationFee" : 12.5,
+      "packageOnQueue" : 0,
+      "assignedOperator" : 9,
+      "route" : 3,
       "active" : 1
     }
   ],
@@ -226,17 +374,65 @@
       "id": 1,
       "name": "Ruta 1",
       "destinationId": 1,
-      "active": "false",
-      "packagesOnRoute": 0,
-      "totalPackages": 0
+      "active": true,
+      "packagesOnRoute": 25,
+      "totalPackages": 55
     },
      {
       "id": 2,
       "name": "Ruta 2",
       "destinationId": 2,
-      "active": "false",
+      "active": false,
+      "packagesOnRoute": 0,
+      "totalPackages": 35
+    },
+    {
+      "id": 3,
+      "name": "Ruta 3",
+      "destinationId": 3,
+      "active": false,
       "packagesOnRoute": 0,
       "totalPackages": 0
+    },
+     {
+      "id": 4,
+      "name": "Ruta 4",
+      "destinationId": 4,
+      "active": true,
+      "packagesOnRoute": 45,
+      "totalPackages": 105
+    },
+    {
+      "id": 5,
+      "name": "Ruta 5",
+      "destinationId": 5,
+      "active": true,
+      "packagesOnRoute": 35,
+      "totalPackages": 500
+    },
+     {
+      "id": 6,
+      "name": "Ruta 6",
+      "destinationId": 5,
+      "active": true,
+      "packagesOnRoute": 45,
+      "totalPackages": 65
+    },
+    {
+      "id": 7,
+      "name": "Ruta 7",
+      "destinationId": 6,
+      "active": true,
+      "packagesOnRoute": 35,
+      "totalPackages": 50
+    },
+     {
+      "id": 8,
+      "name": "Ruta 2",
+      "destinationId": 7,
+      "active": true,
+      "packagesOnRoute": 5,
+      "totalPackages": 45
     }
   ],
   "initial-queue": [
